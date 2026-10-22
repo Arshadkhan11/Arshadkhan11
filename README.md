@@ -1,4 +1,4 @@
-# Arshad Khan
+# Arshad R
 
 **Platform & SRE Engineer** · Observability · GitOps · Kubernetes  
 Bengaluru · [github.com/Arshadkhan11](https://github.com/Arshadkhan11)
